@@ -69,7 +69,7 @@ def main():
 
     with sync_playwright() as p:
 
-        browser = p.chromium.launch(headless=cfg.headless)
+        browser = p.chromium.launch(headless=True)
         page = browser.new_page()
 
         page.set_default_timeout(cfg.default_timeout_ms)

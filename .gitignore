@@ -1,0 +1,32 @@
+# Credenciais e configurações sensíveis
+.env
+.env.*
+
+# Relatórios gerados
+relatorios/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Logs
+*.log
+
+# Excel temporário
+~$*.xlsx
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db

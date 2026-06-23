@@ -47,7 +47,7 @@ class Config:
 
 def load_config() -> Config:
     return Config(
-        url="https://aplicativo.inpasa.com.br/ords/apex/r/csdesenv/gestao-parceiro/login",
+        url=os.environ["URL_PORTAL_PARCEIRO"],
         usuario=os.environ["APLICATIVO__INPASA_USUARIO"],
         senha=os.environ["APLICATIVO__INPASA_SENHA"],
 

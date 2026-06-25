@@ -32,7 +32,7 @@ COL_MAP = {
 }
 
 # ✅ Só pode cancelar se Codigo for um desses
-CODIGOS_PERMITIDOS = {"41", "154", "159"}
+CODIGOS_PERMITIDOS = {"5", "41", "154", "159"}
 
 
 def _cell_text(row, nth: int) -> str:

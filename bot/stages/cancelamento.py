@@ -236,7 +236,8 @@ def goto_painel_carregamento(page):
 # ============================================================
 # ✅ Produtos a consultar (ordem importa)
 PRODUTOS_CONSULTA = [
-    ("41", "41 - FARELO DE MILHO"),  
+    ("5", "5 - FARELO DE MILHO (DDGS)"),
+    ("41", "41 - FARELO DE MILHO"),
     ("154", "154 - FARELO DE MILHO (DDGS) MI"),
     ("159", "159 - FARELO DE SORGO"),
 ]

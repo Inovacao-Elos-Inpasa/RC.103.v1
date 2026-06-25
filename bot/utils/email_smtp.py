@@ -24,14 +24,14 @@ def enviar_email_smtp(
     # ✅ vários destinatários
     destinatarios = [
         "daniel@zixbe.com.br",
-        # "jessica.sampaio@inpasa.com.br",
-        # "luciana.holtman@inpasa.com.br",
-        # "analista.ddgs@inpasa.com.br",
-        # "franklin.guisso@inpasa.com.br",
-        # "izadora.feitosa@inpasa.com.br",
-        # "washington.silva@inpasa.com.br",
-        # "edberg.silva@inpasa.com.br",
-
+        "jessica.sampaio@inpasa.com.br",
+        "luciana.holtman@inpasa.com.br",
+        "analista.ddgs@inpasa.com.br",
+        "franklin.guisso@inpasa.com.br",
+        "izadora.feitosa@inpasa.com.br",
+        "washington.silva@inpasa.com.br",
+        "edberg.silva@inpasa.com.br",
+        "luciane.rosa@inpasa.com.br"
     ]
 
 

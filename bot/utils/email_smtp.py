@@ -62,7 +62,7 @@ Segue em anexo os relatórios do dia.
 
 {resumo}
 
-Lembrando que essas planilhas abrangem os produtos 41, 154 e 159.
+Lembrando que essas planilhas abrangem os produtos 05, 41, 154 e 159.
 
 Atenciosamente,
 """
